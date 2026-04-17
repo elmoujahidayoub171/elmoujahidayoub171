@@ -14,16 +14,19 @@
  
 ## 🛠 Tech Stack
  
-![Python](https://img.shields.io/badge/Python-3d5a80?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-f97316?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-0d6efd?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-2965f1?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-e76f51?style=for-the-badge&logo=java&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-fbbf24?style=for-the-badge&logo=apache-hadoop&logoColor=4a2e05)
-![Linux](https://img.shields.io/badge/Linux-374151?style=for-the-badge&logo=linux&logoColor=white)
- 
+<p>
+  <img src="https://img.shields.io/badge/Python-3d5a80?style=for-the-badge&logo=python&logoColor=white" height="55"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-f97316?style=for-the-badge&logo=scikit-learn&logoColor=white" height="55"/>
+  <img src="https://img.shields.io/badge/MySQL-0d6efd?style=for-the-badge&logo=mysql&logoColor=white" height="55"/>
+  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" height="55"/>
+  <img src="https://img.shields.io/badge/CSS3-2965f1?style=for-the-badge&logo=css3&logoColor=white" height="55"/>
+  <img src="https://img.shields.io/badge/Java-e76f51?style=for-the-badge&logo=java&logoColor=white" height="55"/>
+  <img src="https://img.shields.io/badge/Hadoop-fbbf24?style=for-the-badge&logo=apache-hadoop&logoColor=4a2e05" height="55"/>
+  <img src="https://img.shields.io/badge/Linux-374151?style=for-the-badge&logo=linux&logoColor=white" height="55"/>
+</p>
+
 ---
+
  
 ## 📊 At a glance
  
