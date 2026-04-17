@@ -53,11 +53,5 @@ Designing relational schemas and writing complex queries in **MySQL**, combined 
 ### 🐧 Systems & Infrastructure
 Comfortable in **Linux** environments for scripting, automation, server management, and deploying applications in production.
  
----
- 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&theme=default" alt="Top Languages" />
-</p>
 
- 
 
