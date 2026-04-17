@@ -6,7 +6,7 @@
 
 
 
-  # 👨‍💻 Full-Stack & Data Engineer
+  #  Data Engineer
  
 > Building reliable systems — from clean frontends to scalable data pipelines.
  
@@ -53,5 +53,5 @@ Designing relational schemas and writing complex queries in **MySQL**, combined 
 ### 🐧 Systems & Infrastructure
 Comfortable in **Linux** environments for scripting, automation, server management, and deploying applications in production.
  
-
+---
 
