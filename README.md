@@ -4,12 +4,6 @@
 - AI Fluency: AI Capabilities & Limitations — Anthropic academy  —  [Verify Certificate](https://verify.skilljar.com/c/6e64suevtjh5)
 - Introduction to Python — DataCamp [Verified Certificate](https://www.datacamp.com/statement-of-accomplishment/course/3415a6c86733a3049859fe7e4bddb9bb3307cbe1?raw=1)
 
-
-
-  #  Data Engineer
- 
-> Building reliable systems — from clean frontends to scalable data pipelines.
- 
 ---
  
 # Tech Stack
