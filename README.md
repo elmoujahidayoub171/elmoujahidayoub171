@@ -14,6 +14,8 @@
  
 # Tech Stack
 
+# Tech Stack
+
 Voici les technologies et outils que je maîtrise :
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center; margin: 20px 0;">
@@ -59,6 +61,8 @@ Voici les technologies et outils que je maîtrise :
      style="padding: 8px; background: #222222; border-radius: 6px;">
 
 </div>
+
+> **Note** : Les logos sont affichés avec une taille claire et visible (120 px de largeur) pour une meilleure lisibilité sur tous les supports.
 
 
 ---
