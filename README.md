@@ -1,7 +1,6 @@
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=650&height=60&lines=Data+Science+Student+📊;Big+Data+Student+🗄️;Artificial+Intelligence+Student+🤖" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=650&height=60&lines=Data+Science+Student;Big+Data+Student;Artificial+Intelligence+Student" alt="Typing SVG" />
 </a>
-
 # Hi, I'm Ayoub elmoujahid
 - Passionate about turning raw data into meaningful insights and building intelligent systems.
 ## Certifications
