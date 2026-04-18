@@ -7,7 +7,7 @@
  
 # Tech Stack
 <p>
-  <img src="https://img.shields.io/badge/Python-3d5a80?style=for-the-badge&logo=python&logoColor=white" height="80"/>
+  <img src="https://img.shields.io/badge/Python-3d5a80?style=for-the-badge&logo=python&logoColor=white" height="120"/>
   <img src="https://img.shields.io/badge/Scikit--learn-f97316?style=for-the-badge&logo=scikit-learn&logoColor=white" height="80"/>
   <img src="https://img.shields.io/badge/MySQL-0d6efd?style=for-the-badge&logo=mysql&logoColor=white" height="80"/>
   <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" height="80"/>
