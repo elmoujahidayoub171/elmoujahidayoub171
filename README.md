@@ -12,18 +12,54 @@
  
 ---
  
-## 🛠 Tech Stack
- 
-<p>
-  <img src="https://img.shields.io/badge/Python-3d5a80?style=for-the-badge&logo=python&logoColor=white" height="80"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-f97316?style=for-the-badge&logo=scikit-learn&logoColor=white" height="80"/>
-  <img src="https://img.shields.io/badge/MySQL-0d6efd?style=for-the-badge&logo=mysql&logoColor=white" height="80"/>
-  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" height="80"/>
-  <img src="https://img.shields.io/badge/CSS3-2965f1?style=for-the-badge&logo=css3&logoColor=white" height="80"/>
-  <img src="https://img.shields.io/badge/Java-e76f51?style=for-the-badge&logo=java&logoColor=white" height="80"/>
-  <img src="https://img.shields.io/badge/Hadoop-fbbf24?style=for-the-badge&logo=apache-hadoop&logoColor=4a2e05" height="80"/>
-  <img src="https://img.shields.io/badge/Linux-374151?style=for-the-badge&logo=linux&logoColor=white" height="80"/>
-</p>
+# Tech Stack
+
+Voici les technologies et outils que je maîtrise :
+
+<div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center; margin: 20px 0;">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/240px-Python-logo-notext.svg.png" 
+     alt="Python" 
+     width="120" 
+     style="padding: 8px; background: #3776AB; border-radius: 6px;">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/240px-Scikit_learn_logo_small.svg.png" 
+     alt="Scikit-learn" 
+     width="120" 
+     style="padding: 8px; background: #F7931E; border-radius: 6px;">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/MySQL_Logo.svg/240px-MySQL_Logo.svg.png" 
+     alt="MySQL" 
+     width="120" 
+     style="padding: 8px; background: #4479A1; border-radius: 6px;">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/240px-HTML5_logo_and_wordmark.svg.png" 
+     alt="HTML5" 
+     width="120" 
+     style="padding: 8px; background: #E34F26; border-radius: 6px;">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/240px-CSS3_logo_and_wordmark.svg.png" 
+     alt="CSS3" 
+     width="120" 
+     style="padding: 8px; background: #1572B6; border-radius: 6px;">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Java_logo_and_wordmark.svg/240px-Java_logo_and_wordmark.svg.png" 
+     alt="Java" 
+     width="120" 
+     style="padding: 8px; background: #ED8B00; border-radius: 6px;">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hadoop_logo.svg/240px-Hadoop_logo.svg.png" 
+     alt="Hadoop" 
+     width="120" 
+     style="padding: 8px; background: #FFCC00; border-radius: 6px;">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/240px-Tux.svg.png" 
+     alt="Linux" 
+     width="120" 
+     style="padding: 8px; background: #222222; border-radius: 6px;">
+
+</div>
+
 
 ---
 
