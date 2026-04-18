@@ -4,7 +4,6 @@
 - AI Fluency: AI Capabilities & Limitations — Anthropic academy  —  [Verify Certificate](https://verify.skilljar.com/c/6e64suevtjh5)
 - Introduction to Python — DataCamp [Verified Certificate](https://www.datacamp.com/statement-of-accomplishment/course/3415a6c86733a3049859fe7e4bddb9bb3307cbe1?raw=1)
 
----
  
 # Tech Stack
 <p>
@@ -18,23 +17,5 @@
   <img src="https://img.shields.io/badge/Linux-374151?style=for-the-badge&logo=linux&logoColor=white" height="80"/>
 </p>
 
----
 
- 
-## 💡 Areas of expertise
- 
-### 🤖 Machine Learning & Data Science
-Building and training predictive models with **Python** and **Scikit-learn** — from preprocessing pipelines to model evaluation and deployment.
- 
- 
-### ☕ Backend & Enterprise
-Developing robust server-side applications with **Java**, leveraging its strong typing and performance for enterprise-grade systems.
- 
-### 🗄️ Data Engineering
-Designing relational schemas and writing complex queries in **MySQL**, combined with **Hadoop** for distributed processing of large datasets.
- 
-### 🐧 Systems & Infrastructure
-Comfortable in **Linux** environments for scripting, automation, server management, and deploying applications in production.
- 
----
 
