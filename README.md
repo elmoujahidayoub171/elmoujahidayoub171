@@ -21,19 +21,6 @@
 ---
 
  
-## 📊 At a glance
- 
-| Category | Technologies |
-|---|---|
-| 🐍 Languages | Python, Java |
-| 🤖 ML / Data Science | Scikit-learn |
-| 🗄️ Databases | MySQL |
-| 🌐 Frontend | HTML5, CSS3 |
-| 📦 Big Data | Hadoop |
-| 🐧 Systems | Linux |
- 
----
- 
 ## 💡 Areas of expertise
  
 ### 🤖 Machine Learning & Data Science
