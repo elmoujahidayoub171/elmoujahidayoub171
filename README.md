@@ -82,6 +82,21 @@
   <code>ETL Pipelines</code> · <code>Data Pipelines</code> · <code>EDA</code> · <code>Statistics</code> · <code>Machine Learning</code> · <code>Data Structures</code>
 </p>
 
+<h2 align="center">📈 GitHub Statistics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elmoujahidayoub171&show_icons=true&hide_border=false&bg_color=0d1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9&border_color=4C1D95&count_private=true" height="180" alt="GitHub Stats" />&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmoujahidayoub171&layout=compact&bg_color=0d1117&title_color=A78BFA&text_color=C9D1D9&border_color=4C1D95" height="180" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=elmoujahidayoub171&background=0d1117&ring=7C3AED&fire=A78BFA&currStreakNum=C9D1D9&currStreakLabel=A78BFA&sideNums=C9D1D9&sideLabels=A78BFA&dates=8B949E&stroke=4C1D95&border=4C1D95" height="170" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elmoujahidayoub171&bg_color=0d1117&color=A78BFA&line=7C3AED&point_color=C9D1D9&area=true&area_color=4C1D95&hide_border=true" width="100%" alt="Contribution Graph" />
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,100:7C3AED&height=100&section=footer&animation=fadeIn" width="100%" />
 </p>
