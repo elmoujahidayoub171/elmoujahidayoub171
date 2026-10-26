@@ -32,8 +32,8 @@
 
 <h3 align="center">📊 Data Science & Visualization</h3>
 <table align="center"><tr>
-  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pandas&theme=dark" width="56" height="56" /><br /><sub><b>Pandas</b></sub></td>
-  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=numpy&theme=dark" width="56" height="56" /><br /><sub><b>NumPy</b></sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" /><br /><sub><b>Pandas</b></sub></td>
+  <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" height="48" /><br /><sub><b>NumPy</b></sub></td>
   <td align="center" width="96"><img src="https://cdn.simpleicons.org/scipy/8CAAE6" width="48" height="48" /><br /><sub><b>SciPy</b></sub></td>
   <td align="center" width="96"><img src="https://placehold.co/56x56/0d1117/4C8CBF?text=SM&font=montserrat" width="56" height="56" /><br /><sub><b>Statsmodels</b></sub></td>
   <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="48" height="48" /><br /><sub><b>Matplotlib</b></sub></td>
