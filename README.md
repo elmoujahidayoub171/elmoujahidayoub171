@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=header&animation=fadeIn" width="100%" />
+</p>
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=650&height=60&lines=Data+Science+Student;Big+Data+Student;Artificial+Intelligence+Student" alt="Typing SVG" />
 </a>
@@ -9,10 +12,6 @@
 - AI Fluency: AI Capabilities & Limitations — Anthropic academy  —  [Verify Certificate](https://verify.skilljar.com/c/6e64suevtjh5)
 - Introduction to Python — DataCamp [Verified Certificate](https://www.datacamp.com/statement-of-accomplishment/course/3415a6c86733a3049859fe7e4bddb9bb3307cbe1?raw=1)
 - Understanding How Neural Networks Work: Fundamentals and Core Concepts - https://courses.analyticsvidhya.com/certificates/x5kmdvkwym
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=header&animation=fadeIn" width="100%" />
-</p>
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
