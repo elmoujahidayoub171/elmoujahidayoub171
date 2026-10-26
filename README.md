@@ -78,13 +78,6 @@ Understanding How Neural Networks Work: Fundamentals and Core Concepts — <a hr
 </p>
 
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=elmoujahidayoub171&background=0d1117&ring=7C3AED&fire=A78BFA&currStreakNum=C9D1D9&currStreakLabel=A78BFA&sideNums=C9D1D9&sideLabels=A78BFA&dates=8B949E&stroke=4C1D95&border=4C1D95" height="170" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elmoujahidayoub171&bg_color=0d1117&color=A78BFA&line=7C3AED&point_color=C9D1D9&area=true&area_color=4C1D95&hide_border=true" width="100%" alt="Contribution Graph" />
-</p>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,100:7C3AED&height=100&section=footer&animation=fadeIn" width="100%" />
