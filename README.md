@@ -53,8 +53,7 @@
   <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="56" height="56" /><br /><sub><b>MongoDB</b></sub></td>
   <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg" width="48" height="48" /><br /><sub><b>Hadoop</b></sub></td>
   <td align="center" width="96"><img src="https://skillicons.dev/icons?i=kafka&theme=dark" width="56" height="56" /><br /><sub><b>Kafka</b></sub></td>
-  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=spark&theme=dark" width="56" height="56" /><br /><sub><b>Spark Streaming</b></sub></td>
-</tr></table>
+   <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="48" height="48" /><br /><sub><b>Spark Streaming</b></sub></td>
 
 <h3 align="center">🐳 Containerization & DevOps</h3>
 <table align="center"><tr>
