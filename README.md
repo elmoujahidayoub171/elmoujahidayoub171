@@ -14,20 +14,19 @@
 
 <h3>💻 Programming Languages</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,bash,html,css&theme=dark" />
 </p>
 
 <h3>🤖 AI & Machine Learning</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn&theme=dark" />
 </p>
 
 <h3>📊 Data Science</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=anaconda&theme=dark" />
-  <img src="https://cdn.simpleicons.org/pandas/white" height="45" alt="Pandas"/>
-  <img src="https://cdn.simpleicons.org/numpy/4DABCF" height="45" alt="NumPy"/>
-  <img src="https://cdn.simpleicons.org/scipy/8CAAE6" height="45" alt="SciPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scipy/scipy-original.svg" width="48" height="48" alt="SciPy" />
 </p>
 
 <h3>🌐 Backend Development</h3>
@@ -37,8 +36,14 @@
 
 <h3>🗄️ Databases & Big Data</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-  <img src="https://cdn.simpleicons.org/apachehadoop/66CCFF" height="45" alt="Hadoop"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg" width="48" height="48" alt="Apache Hadoop" />
+</p>
+
+<h3>🐳 Containerization & DevOps</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="48" height="48" alt="Docker Compose" title="Docker Compose" />
 </p>
 
 <h3>⚙️ Tools & Platforms</h3>
