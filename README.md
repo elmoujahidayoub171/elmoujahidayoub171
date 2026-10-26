@@ -1,23 +1,39 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=header&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Ayoub%20El-Moujahid&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20Big%20Data%20%7C%20AI%20Engineering%20Student&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 </p>
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=650&height=60&lines=Data+Science+Student;Big+Data+Student;Artificial+Intelligence+Student" alt="Typing SVG" />
-</a>
-
-# Hi, I'm Ayoub elmoujahid
-- Passionate about turning raw data into meaningful insights and building intelligent systems.
-
-## Certifications
-- AI Fluency: AI Capabilities & Limitations — Anthropic academy  —  [Verify Certificate](https://verify.skilljar.com/c/6e64suevtjh5)
-- Introduction to Python — DataCamp [Verified Certificate](https://www.datacamp.com/statement-of-accomplishment/course/3415a6c86733a3049859fe7e4bddb9bb3307cbe1?raw=1)
-- Understanding How Neural Networks Work: Fundamentals and Core Concepts - https://courses.analyticsvidhya.com/certificates/x5kmdvkwym
-
-<h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&height=30&lines=Data+Science+%7C+Big+Data+%7C+AI;Building+real-time+data+pipelines;Python+%C2%B7+Kafka+%C2%B7+Spark+%C2%B7+Docker" alt="Typing animation" />
 </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayoub-el-moujahid"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="mailto:elmoujahidayoub171@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/elmoujahidayoub171?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+</p>
+
+---
+
+<h2 align="center">👨‍💻 About Me</h2>
+
+<p align="center">
+  Engineering student in <b>Data Science, Big Data & AI</b> at <b>ENSA Tétouan</b> (Morocco).<br />
+  I build data pipelines, streaming systems and machine learning models, from collection to dashboards.
+</p>
+
+<p align="center">
+  🎓 3rd-year engineering cycle (BDIA) &nbsp;•&nbsp; 📍 Tétouan, Morocco<br />
+  🔎 Looking for a <b>2-month PFA internship starting July 2027</b><br />
+  🌍 Arabic (native) &nbsp;•&nbsp; French (fluent) &nbsp;•&nbsp; English (B2, technical)
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=header&animation=fadeIn" width="100%" />
+</p>
+
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <h3 align="center">💻 Languages</h3>
 <p align="center">
@@ -79,6 +95,49 @@
 <h3 align="center">🧠 Concepts</h3>
 <p align="center">
   <code>ETL Pipelines</code> · <code>Data Pipelines</code> · <code>EDA</code> · <code>Statistics</code> · <code>Machine Learning</code> · <code>Data Structures</code>
+</p>
+
+---
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+### 🐧 Linux Network Monitoring: ETL Pipeline
+`Python` `Linux` `PostgreSQL` `Flask` `Docker` `Docker Compose`
+
+ETL pipeline that collects network activity with `ss`, `lsof` and `ps`, then cleans, transforms and validates the data on a configurable interval (5 minutes by default). Data is stored in PostgreSQL (4 tables), an analytics layer generates statistics and alerts, and an interactive Flask dashboard shows 4 KPIs. The whole app runs in 4 Docker containers with Docker Compose.
+
+🔗 [View repository](https://github.com/elmoujahidayoub171?tab=repositories)
+
+### ⚡ Real-Time Big Data Pipeline: Smart Meters
+`Python` `Kafka` `Spark Structured Streaming` `MongoDB` `Streamlit` `Docker`
+
+Local Docker-based pipeline analyzing data from 92,000 simulated smart-meter sensors in real time. Kafka simulates the stream, Spark Structured Streaming processes it and MongoDB stores it. I trained and compared regression models (Linear Regression, Random Forest, Gradient Boosting) with MAE and RMSE to predict consumption, and added an NLP model (TF-IDF and logistic regression) that generates analytical reports for a Streamlit dashboard.
+
+🔗 [View repository](https://github.com/elmoujahidayoub171?tab=repositories)
+
+### 📉 Customer Churn Prediction
+`Python` `NumPy` `Pandas` `Scikit-learn`
+
+Preprocessing of a 7,043-customer dataset (missing values, categorical encoding, normalization), then a cross-validated comparison of KNN and LightGBM. The KNN churn classifier reaches an F1-score of 0.61 on the churn class.
+
+🔗 [View repository](https://github.com/elmoujahidayoub171?tab=repositories)
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elmoujahidayoub171&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170" alt="GitHub stats" />&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmoujahidayoub171&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170" alt="Top languages" />
+</p>
+
+---
+
+<h2 align="center">🤝 Community</h2>
+
+<p align="center">
+  <b>AI GEEKS</b>, Event Team (Oct. - Dec. 2025): helped organize events for the student club created by BDIA students at ENSA Tétouan.<br />
+  <b>Engineers For Help</b>, Team Member (Feb. - Jun. 2025): took part in a humanitarian project to renovate a children's home.
 </p>
 
 <p align="center">
