@@ -9,16 +9,38 @@
 </p>
 
 <h1 align="center">Hi, I'm Ayoub elmoujahid</h1>
-<p align="center">Passionate about turning raw data into meaningful insights and building intelligent systems.</p>
+<p align="center"><i>Passionate about turning raw data into meaningful insights and building intelligent systems.</i></p>
 
-<h2 align="center">Certifications</h2>
 <p align="center">
-  AI Fluency: AI Capabilities & Limitations — Anthropic academy — <a href="https://verify.skilljar.com/c/6e64suevtjh5">Verify Certificate</a><br />
-  Introduction to Python — DataCamp — <a href="https://www.datacamp.com/statement-of-accomplishment/course/3415a6c86733a3049859fe7e4bddb9bb3307cbe1?raw=1">Verified Certificate</a><br />
-  Understanding How Neural Networks Work: Fundamentals and Core Concepts — <a href="https://courses.analyticsvidhya.com/certificates/x5kmdvkwym">Verify Certificate</a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:7C3AED,100:0d1117&height=2" width="80%" />
 </p>
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/CERTIFICATIONS-7C3AED?style=for-the-badge&logoColor=white" alt="Certifications" />
+</p>
+
+<p align="center">
+  <b>AI Fluency: AI Capabilities & Limitations</b> — Anthropic academy<br />
+  <a href="https://verify.skilljar.com/c/6e64suevtjh5"><img src="https://img.shields.io/badge/Verify%20Certificate-4C1D95?style=flat-square" alt="Verify Certificate" /></a>
+</p>
+
+<p align="center">
+  <b>Introduction to Python</b> — DataCamp<br />
+  <a href="https://www.datacamp.com/statement-of-accomplishment/course/3415a6c86733a3049859fe7e4bddb9bb3307cbe1?raw=1"><img src="https://img.shields.io/badge/Verified%20Certificate-4C1D95?style=flat-square" alt="Verified Certificate" /></a>
+</p>
+
+<p align="center">
+  <b>Understanding How Neural Networks Work: Fundamentals and Core Concepts</b><br />
+  <a href="https://courses.analyticsvidhya.com/certificates/x5kmdvkwym"><img src="https://img.shields.io/badge/Verify%20Certificate-4C1D95?style=flat-square" alt="Verify Certificate" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:7C3AED,100:0d1117&height=2" width="80%" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🛠️%20TECH%20STACK-7C3AED?style=for-the-badge&logoColor=white" alt="Tech Stack" />
+</p>
 
 <h3 align="center">💻 Languages</h3>
 <p align="center">
@@ -75,26 +97,6 @@
   <img src="https://skillicons.dev/icons?i=git&theme=dark" width="56" height="56" title="Git" alt="Git" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=github&theme=dark" width="56" height="56" title="GitHub" alt="GitHub" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="56" height="56" title="VS Code" alt="VS Code" />
-</p>
-
-<h3 align="center">🧠 Concepts</h3>
-<p align="center">
-  <code>ETL Pipelines</code> · <code>Data Pipelines</code> · <code>EDA</code> · <code>Statistics</code> · <code>Machine Learning</code> · <code>Data Structures</code>
-</p>
-
-<h2 align="center">📈 GitHub Statistics</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elmoujahidayoub171&show_icons=true&hide_border=false&bg_color=0d1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9&border_color=4C1D95&count_private=true" height="180" alt="GitHub Stats" />&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmoujahidayoub171&layout=compact&bg_color=0d1117&title_color=A78BFA&text_color=C9D1D9&border_color=4C1D95" height="180" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=elmoujahidayoub171&background=0d1117&ring=7C3AED&fire=A78BFA&currStreakNum=C9D1D9&currStreakLabel=A78BFA&sideNums=C9D1D9&sideLabels=A78BFA&dates=8B949E&stroke=4C1D95&border=4C1D95" height="170" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elmoujahidayoub171&bg_color=0d1117&color=A78BFA&line=7C3AED&point_color=C9D1D9&area=true&area_color=4C1D95&hide_border=true" width="100%" alt="Contribution Graph" />
 </p>
 
 <p align="center">
